@@ -81,7 +81,7 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Name hier eintragen]**
+**[Thomas Rose]**
 
 _[Berufsbezeichnung hier eintragen]_
 
