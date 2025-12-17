@@ -6,9 +6,9 @@ Dies ist das Repository für den **LinkedIn Learning**-Kurs `Grundlagen der Prog
 
 Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Umgang mit den Übungsdateien und Codespace" an, um zu erfahren, wie Sie anfangen können.
 
-[Guter Code ist kein Zufall – er folgt bewährten Prinzipien. Entwurfsmuster (Design Patterns) sind erprobte Lösungen für wiederkehrende Herausforderungen in der Softwareentwicklung. In diesem Kurs lernen Sie die Grundlagen der »Gang of Four«-Muster in den drei Hauptkategorien: Erzeugungs-, Struktur- und Verhaltensmuster.
+Guter Code ist kein Zufall – er folgt bewährten Prinzipien. Entwurfsmuster (Design Patterns) sind erprobte Lösungen für wiederkehrende Herausforderungen in der Softwareentwicklung. In diesem Kurs lernen Sie die Grundlagen der »Gang of Four«-Muster in den drei Hauptkategorien: Erzeugungs-, Struktur- und Verhaltensmuster.
 
-Tom Rose zeigt Ihnen, wie Sie Ihre Fähigkeiten erweitern und professionelle Best Practices umsetzen. Sie erfahren, wie Sie Objekte effizient erstellen, Code klar strukturieren und die Kommunikation zwischen Objekten verbessern. Wichtige Patterns wie Singleton, Factory, Adapter und Observer werden praxisnah behandelt.] 
+Tom Rose zeigt Ihnen, wie Sie Ihre Fähigkeiten erweitern und professionelle Best Practices umsetzen. Sie erfahren, wie Sie Objekte effizient erstellen, Code klar strukturieren und die Kommunikation zwischen Objekten verbessern. Wichtige Patterns wie Singleton, Factory, Adapter und Observer werden praxisnah behandelt.
 
 ## Anleitung
 
@@ -17,6 +17,7 @@ Sie finden den im Kurs gezeigten Code im Unterordner _code_. Er ist in die gleic
 ### Autor
 
 **[Thomas Rose]**
+
 Web-Entwickler, Medienpädagoge
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
