@@ -1,8 +1,8 @@
-# Design Patterns
+# Grundlagen der Programmierung: Entwurfsmuster
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `Grundlagen der Programmierung: Entwurfsmuster`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning**-Kurs `Grundlagen der Programmierung: Entwurfsmuster`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![Grundlagen der Programmierung: Entwurfsmuster][[lil-thumbnail-url](https://media.licdn.com/dms/image/v2/D4E0DAQFpDylFy-ZtyQ/learning-public-crop_675_1200/B4EZsm4RuhHcAk-/0/1765883845784?e=2147483647&v=beta&t=RbNdLgO5OsyRqB1JK-mqH5647kOsfTGf0lWQYAXXwY0)] 
+![Grundlagen der Programmierung: Entwurfsmuster[[lil-thumbnail-url](https://media.licdn.com/dms/image/v2/D4E0DAQFpDylFy-ZtyQ/learning-public-crop_675_1200/B4EZsm4RuhHcAk-/0/1765883845784?e=2147483647&v=beta&t=RbNdLgO5OsyRqB1JK-mqH5647kOsfTGf0lWQYAXXwY0)] 
 
 [Practice It: X | All Other [Project Mojo] Courses]
 
