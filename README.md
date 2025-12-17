@@ -17,8 +17,7 @@ Sie finden den im Kurs gezeigten Code im Unterordner _code_. Er ist in die gleic
 ### Autor
 
 **[Thomas Rose]**
-
-_[Berufsbezeichnung hier eintragen]_
+Web-Entwickler, Medienpädagoge
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
 
