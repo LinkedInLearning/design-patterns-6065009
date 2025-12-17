@@ -23,7 +23,7 @@ Web-Entwickler, Medienpädagoge
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning][lil-URL-trainer] an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com](https://www.linkedin.com/learning/grundlagen-der-programmierung-entwurfsmuster-28177176/besserer-code-durch-entwurfsmuster?
+[lil-course-url]: https://www.linkedin.com](https://www.linkedin.com/learning/grundlagen-der-programmierung-entwurfsmuster-28177176/besserer-code-durch-entwurfsmuster
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFpDylFy-ZtyQ/learning-public-crop_675_1200/B4EZsm4RuhHcAk-/0/1765883845784?e=2147483647&v=beta&t=RbNdLgO5OsyRqB1JK-mqH5647kOsfTGf0lWQYAXXwY0
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/thomas-rose
 
